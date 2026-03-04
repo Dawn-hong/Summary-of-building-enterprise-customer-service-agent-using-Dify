@@ -1,6 +1,6 @@
 # Summary-of-building-enterprise-customer-service-agent-using-Dify
 
-使用Dify+Ragflow+Mem0搭建企业智能客服Agent的经验总结
+使用Dify+Ragflow+Mem0搭建企业智能客服Agent的经验总结,Dify的具体编排可以看:企业内部客服-whole-workflow.jpeg
 
 ---
 
